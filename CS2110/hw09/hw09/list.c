@@ -1,7 +1,7 @@
 /**
  * CS 2110 - Fall 2022 - Homework #9
  *
- * @author YOUR NAME HERE
+ * @author Tony Luu
  *
  * list.c: Complete the functions!
  */
