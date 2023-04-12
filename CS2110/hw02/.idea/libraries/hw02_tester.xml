@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="hw02-tester">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/hw02-tester.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

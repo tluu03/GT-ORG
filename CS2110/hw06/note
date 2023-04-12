@@ -1,0 +1,14 @@
+R5, #4 ;;address
+R5, #5 ;;num
+
+R5, #0 ;;sum
+R5, #-1 ;;curr
+R5, #-2 ;;mem
+
+
+
+R5, #4 ;;num
+
+R5, #0 ;;sum
+R5, #-1 ;;addr
+R5, #-2 ;;mem

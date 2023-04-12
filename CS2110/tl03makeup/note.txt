@@ -1,0 +1,20 @@
+;; void MAP(array, length) {
+;;   int i = 0;
+;;   while (i < length) {
+;;      int firstElem = arr[i];
+;;      int secondElem = arr[i + 1];
+;;      int div = DIV(firstElem, secondElem);
+;;      int offset = MAX(firstElem, secondElem);
+;;      arr[i + offset] = div;
+;;      i += 2;
+;;   }
+;; }
+
+;;R5, #4, array
+;;R5, #5, length
+
+;;R5, #0, i
+;;R5, #-1, firstElem
+;;R5, #-2, secondElem
+;;R5, #-3, div
+;;R5, #-4, offset
